@@ -25,8 +25,8 @@
 
 
 - 🔭 I’m currently working on an open source framework for Garrys Mod with @IbimsnicesYolo or plugins for Minecraft. Their are also some other applications planned, which I want to release one day.
-- 🌱 I’m currently learning Java beside Lua to develope an own application and Minecraft plugins.
-- 👯 I’m not looking to collaborate with someone on something special. But if you're interested in working on any of the above projects, just get in touch.
+- 🌱 Nowadays I’m learning Java beside Lua to develope an own application and Minecraft plugins.
+- 👯 In the moment I’m not looking to collaborate with someone on something special. But if you're interested in working on any of the above projects, just get in touch.
 - 📫 How to reach me: vincarttm (Discord), vincart-business@web.de
 - ⚡ Fun fact: When the Earth is scaled to the size of a billiard ball, it is flatter than the billiard ball itself.
 ---
