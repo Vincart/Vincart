@@ -48,4 +48,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vincart&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincart&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://raw.githubusercontent.com/vincart/stats/master/generated/overview.svg#gh-dark-mode-only)]()
+
+[![GitHub Streak](https://raw.githubusercontent.com/vincart/stats/master/generated/languages.svg#gh-dark-mode-only)]()
